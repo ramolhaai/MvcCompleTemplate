@@ -1,0 +1,9 @@
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\bin\Debug\netstandard2.0\EntityModellibrary.deps.json
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\bin\Debug\netstandard2.0\EntityModellibrary.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\bin\Debug\netstandard2.0\EntityModellibrary.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.csprojAssemblyReference.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.csproj.CoreCompileInputs.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.AssemblyInfoInputs.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.AssemblyInfo.cs
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\EntityModellibrary\obj\Debug\netstandard2.0\EntityModellibrary.pdb

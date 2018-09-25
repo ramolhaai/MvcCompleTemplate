@@ -1,0 +1,24 @@
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\myDataLayer.dll.config
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\myDataLayer.dll
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\myDataLayer.pdb
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\EntityFramework.dll
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\EntityFramework.xml
+E:\pros\xMvc\MySampleApi\myDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\pros\xMvc\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csprojAssemblyReference.cache
+E:\pros\xMvc\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csproj.CoreCompileInputs.cache
+E:\pros\xMvc\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csproj.CopyComplete
+E:\pros\xMvc\MySampleApi\myDataLayer\obj\Debug\myDataLayer.dll
+E:\pros\xMvc\MySampleApi\myDataLayer\obj\Debug\myDataLayer.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\myDataLayer.dll.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\myDataLayer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\myDataLayer.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\obj\Debug\myDataLayer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\obj\Debug\myDataLayer.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csprojAssemblyReference.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\myDataLayer\obj\Debug\myDataLayer.csproj.CopyComplete

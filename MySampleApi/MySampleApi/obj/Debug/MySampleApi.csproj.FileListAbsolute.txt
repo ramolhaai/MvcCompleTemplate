@@ -1,0 +1,320 @@
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\ApplicationInsights.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\MySampleApi.dll.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\MySampleApi.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\MySampleApi.pdb
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csc.exe
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csc.exe.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csc.rsp
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csi.exe
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csi.exe.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\csi.rsp
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.AppContext.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Collections.Immutable.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Console.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.Process.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.IO.Compression.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.IO.Pipes.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.AccessControl.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Claims.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Threading.Thread.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.ValueTuple.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XPath.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\vbc.exe
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\vbc.exe.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\vbc.rsp
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\VBCSCompiler.exe
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\roslyn\VBCSCompiler.exe.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Antlr3.Runtime.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.ApplicationInsights.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.Web.Infrastructure.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Newtonsoft.Json.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Diagnostics.DiagnosticSource.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Net.Http.Formatting.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Helpers.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Http.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Http.WebHost.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Mvc.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Optimization.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Razor.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.Deployment.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.Razor.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\WebGrease.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Newtonsoft.Json.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Net.Http.Formatting.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Helpers.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Http.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Http.WebHost.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Mvc.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Optimization.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.Razor.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.Deployment.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Web.WebPages.Razor.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Antlr3.Runtime.pdb
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\System.Diagnostics.DiagnosticSource.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csprojAssemblyReference.cache
+E:\pros\xMvc\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csproj.CoreCompileInputs.cache
+E:\pros\xMvc\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csproj.CopyComplete
+E:\pros\xMvc\MySampleApi\MySampleApi\obj\Debug\MySampleApi.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\obj\Debug\MySampleApi.pdb
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Castle.Core.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Extensions.Conventions.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Extensions.Factory.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Web.Common.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Web.Common.WebHost.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.WebApi.DependencyResolver.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\WebActivator.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\WebActivatorEx.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Extensions.Conventions.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Extensions.Factory.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Web.Common.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\Ninject.Web.Common.WebHost.xml
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\myDataLayer.dll
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\myDataLayer.pdb
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\myDataLayer.dll.config
+E:\pros\xMvc\MySampleApi\MySampleApi\bin\EntityFramework.xml
+E:\Pros\xMvc\MySampleApi\MySampleApi\bin\EntityFramework.dll
+E:\Pros\xMvc\MySampleApi\MySampleApi\bin\EntityFramework.SqlServer.dll
+E:\Pros\xMvc\MySampleApi\MySampleApi\bin\EntityFramework.SqlServer.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\ApplicationInsights.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\MySampleApi.dll.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\MySampleApi.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\MySampleApi.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csc.exe
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csc.exe.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csc.rsp
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csi.exe
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csi.exe.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\csi.rsp
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.AppContext.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Console.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\vbc.exe
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\vbc.exe.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\vbc.rsp
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Antlr3.Runtime.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Castle.Core.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityFramework.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityFramework.SqlServer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\myDataLayer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Newtonsoft.Json.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Extensions.Conventions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Extensions.Factory.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Web.Common.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Http.Formatting.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Helpers.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Http.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Http.WebHost.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Mvc.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Optimization.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Razor.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\WebActivator.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\WebActivatorEx.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\WebGrease.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\myDataLayer.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityFramework.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityFramework.SqlServer.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Extensions.Conventions.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Extensions.Factory.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Web.Common.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Newtonsoft.Json.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Http.Formatting.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Helpers.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Http.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Http.WebHost.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Mvc.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Optimization.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.Razor.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Antlr3.Runtime.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\obj\Debug\MySampleApi.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\obj\Debug\MySampleApi.pdb
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\myDataLayer.dll.config
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csprojAssemblyReference.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csproj.CoreCompileInputs.cache
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\obj\Debug\MySampleApi.csproj.CopyComplete
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\netstandard.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.AppContext.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Collections.Concurrent.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Collections.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Collections.NonGeneric.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Collections.Specialized.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ComponentModel.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Console.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Data.Common.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.Contracts.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.Debug.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.Process.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.Tools.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Diagnostics.Tracing.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Drawing.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Dynamic.Runtime.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Globalization.Calendars.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Globalization.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Globalization.Extensions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.Compression.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.FileSystem.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.IsolatedStorage.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.Pipes.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Linq.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Linq.Expressions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Linq.Parallel.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Linq.Queryable.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Http.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.NameResolution.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.NetworkInformation.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Ping.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Requests.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Security.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.Sockets.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.WebSockets.Client.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Net.WebSockets.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ObjectModel.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Reflection.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Reflection.Extensions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Reflection.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Resources.Reader.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Resources.ResourceManager.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Resources.Writer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Extensions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Handles.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.InteropServices.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Numerics.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Claims.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.Principal.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Security.SecureString.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Text.Encoding.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Text.RegularExpressions.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.Overlapped.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.Tasks.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.Thread.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.ThreadPool.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Threading.Timer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.ValueTuple.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.XDocument.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.XmlDocument.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.XmlSerializer.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.XPath.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityModellibrary.dll
+C:\Users\mc55024\Documents\Code\Test\Pros\MySampleApi - Copy\MySampleApi\MySampleApi\bin\EntityModellibrary.pdb

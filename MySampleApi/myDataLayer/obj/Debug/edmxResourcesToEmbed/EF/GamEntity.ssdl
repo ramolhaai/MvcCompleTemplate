@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GlobalAMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'GlobalAM.dbo.uam2_market1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="uam2_market1">
+    <Key>
+      <PropertyRef Name="RecordID" />
+    </Key>
+    <Property Name="RecordID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MarketID" Type="varchar" MaxLength="10" />
+    <Property Name="CountryCode" Type="varchar" MaxLength="10" />
+    <Property Name="RoleName" Type="varchar" MaxLength="50" />
+    <Property Name="CompanyType" Type="varchar" MaxLength="150" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="Location" Type="varchar" MaxLength="100" />
+    <Property Name="Location1" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="userAppAuthority">
+    <Key>
+      <PropertyRef Name="user_app_auth_id" />
+    </Key>
+    <Property Name="user_app_auth_id" Type="numeric" Precision="30" Scale="0" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="access_org_id" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="location_id" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="application_id" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="application_role_id" Type="nvarchar" MaxLength="60" />
+    <Property Name="crnt_owsh_typ_ds" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="default_authoritative_role" Type="nvarchar" MaxLength="1" Nullable="false" />
+    <Property Name="record_source" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="char_attrib_1" Type="nvarchar" MaxLength="100" />
+    <Property Name="char_attrib_2" Type="nvarchar" MaxLength="100" />
+    <Property Name="char_attrib_3" Type="nvarchar(max)" />
+    <Property Name="char_attrib_4" Type="nvarchar(max)" />
+    <Property Name="char_attrib_5" Type="nvarchar" MaxLength="30" />
+    <Property Name="role_prov_by_user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="created_in_trans_batch_id" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ack_in_eai_batch_id" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="created_by_user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="creation_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_in_trans_batch_id" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="updated_by_user_id" Type="nvarchar" MaxLength="10" />
+    <Property Name="update_date" Type="datetime" />
+    <Property Name="local_account" Type="bit" />
+    <Property Name="Status" Type="tinyint" />
+    <Property Name="BoolFlag" Type="bit" />
+    <Property Name="char_attrib_6" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_7" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_8" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_9" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_10" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_11" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_12" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_13" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_14" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_15" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_16" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_17" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_18" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_19" Type="nvarchar" MaxLength="500" />
+    <Property Name="char_attrib_20" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsOverrideAccess" Type="bit" />
+    <Property Name="IsUpdated" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="GlobalAMModelStoreContainer">
+    <EntitySet Name="userAppAuthority" EntityType="Self.userAppAuthority" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="uam2_market1" EntityType="Self.uam2_market1" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [uam2_market1].[RecordID] AS [RecordID], 
+    [uam2_market1].[MarketID] AS [MarketID], 
+    [uam2_market1].[CountryCode] AS [CountryCode], 
+    [uam2_market1].[RoleName] AS [RoleName], 
+    [uam2_market1].[CompanyType] AS [CompanyType], 
+    [uam2_market1].[IsActive] AS [IsActive], 
+    [uam2_market1].[Location] AS [Location], 
+    [uam2_market1].[Location1] AS [Location1]
+    FROM [dbo].[uam2_market1] AS [uam2_market1]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

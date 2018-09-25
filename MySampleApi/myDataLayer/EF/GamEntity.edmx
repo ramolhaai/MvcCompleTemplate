@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="GlobalAMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'GlobalAM.dbo.uam2_market1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="uam2_market1">
+          <Key>
+            <PropertyRef Name="RecordID" />
+          </Key>
+          <Property Name="RecordID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MarketID" Type="varchar" MaxLength="10" />
+          <Property Name="CountryCode" Type="varchar" MaxLength="10" />
+          <Property Name="RoleName" Type="varchar" MaxLength="50" />
+          <Property Name="CompanyType" Type="varchar" MaxLength="150" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="Location" Type="varchar" MaxLength="100" />
+          <Property Name="Location1" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="userAppAuthority">
+          <Key>
+            <PropertyRef Name="user_app_auth_id" />
+          </Key>
+          <Property Name="user_app_auth_id" Type="numeric" Precision="30" Scale="0" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="access_org_id" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="location_id" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="application_id" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="application_role_id" Type="nvarchar" MaxLength="60" />
+          <Property Name="crnt_owsh_typ_ds" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="default_authoritative_role" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="record_source" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="char_attrib_1" Type="nvarchar" MaxLength="100" />
+          <Property Name="char_attrib_2" Type="nvarchar" MaxLength="100" />
+          <Property Name="char_attrib_3" Type="nvarchar(max)" />
+          <Property Name="char_attrib_4" Type="nvarchar(max)" />
+          <Property Name="char_attrib_5" Type="nvarchar" MaxLength="30" />
+          <Property Name="role_prov_by_user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="created_in_trans_batch_id" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+          <Property Name="ack_in_eai_batch_id" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="created_by_user_id" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="creation_date" Type="datetime" Nullable="false" />
+          <Property Name="updated_in_trans_batch_id" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="updated_by_user_id" Type="nvarchar" MaxLength="10" />
+          <Property Name="update_date" Type="datetime" />
+          <Property Name="local_account" Type="bit" />
+          <Property Name="Status" Type="tinyint" />
+          <Property Name="BoolFlag" Type="bit" />
+          <Property Name="char_attrib_6" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_7" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_8" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_9" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_10" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_11" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_12" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_13" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_14" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_15" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_16" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_17" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_18" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_19" Type="nvarchar" MaxLength="500" />
+          <Property Name="char_attrib_20" Type="nvarchar" MaxLength="500" />
+          <Property Name="IsOverrideAccess" Type="bit" />
+          <Property Name="IsUpdated" Type="bit" />
+        </EntityType>
+        <EntityContainer Name="GlobalAMModelStoreContainer">
+          <EntitySet Name="userAppAuthority" EntityType="Self.userAppAuthority" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="uam2_market1" EntityType="Self.uam2_market1" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [uam2_market1].[RecordID] AS [RecordID], 
+    [uam2_market1].[MarketID] AS [MarketID], 
+    [uam2_market1].[CountryCode] AS [CountryCode], 
+    [uam2_market1].[RoleName] AS [RoleName], 
+    [uam2_market1].[CompanyType] AS [CompanyType], 
+    [uam2_market1].[IsActive] AS [IsActive], 
+    [uam2_market1].[Location] AS [Location], 
+    [uam2_market1].[Location1] AS [Location1]
+    FROM [dbo].[uam2_market1] AS [uam2_market1]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GlobalAMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="GlobalAMEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="userAppAuthorities" EntityType="GlobalAMModel.userAppAuthority" />
+          <EntitySet Name="uam2_market1" EntityType="GlobalAMModel.uam2_market1" />
+        </EntityContainer>
+        <EntityType Name="userAppAuthority">
+          <Key>
+            <PropertyRef Name="user_app_auth_id" />
+          </Key>
+          <Property Name="user_app_auth_id" Type="Decimal" Nullable="false" Precision="30" Scale="0" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="access_org_id" Type="String" Nullable="false" MaxLength="32" FixedLength="false" Unicode="true" />
+          <Property Name="user_id" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="location_id" Type="String" Nullable="false" MaxLength="32" FixedLength="false" Unicode="true" />
+          <Property Name="application_id" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="application_role_id" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+          <Property Name="crnt_owsh_typ_ds" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="default_authoritative_role" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="record_source" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_2" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_3" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_4" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_5" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="role_prov_by_user_id" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="created_in_trans_batch_id" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+          <Property Name="ack_in_eai_batch_id" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="created_by_user_id" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="creation_date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_in_trans_batch_id" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="updated_by_user_id" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="update_date" Type="DateTime" Precision="3" />
+          <Property Name="local_account" Type="Boolean" />
+          <Property Name="Status" Type="Byte" />
+          <Property Name="BoolFlag" Type="Boolean" />
+          <Property Name="char_attrib_6" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_7" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_8" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_9" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_10" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_11" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_12" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_13" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_14" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_15" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_16" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_17" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_18" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_19" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="char_attrib_20" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="IsOverrideAccess" Type="Boolean" />
+          <Property Name="IsUpdated" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="uam2_market1">
+          <Key>
+            <PropertyRef Name="RecordID" />
+          </Key>
+          <Property Name="RecordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MarketID" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="CountryCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CompanyType" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="Location" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Location1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GlobalAMModelStoreContainer" CdmEntityContainer="GlobalAMEntities">
+          <EntitySetMapping Name="userAppAuthorities">
+            <EntityTypeMapping TypeName="GlobalAMModel.userAppAuthority">
+              <MappingFragment StoreEntitySet="userAppAuthority">
+                <ScalarProperty Name="IsUpdated" ColumnName="IsUpdated" />
+                <ScalarProperty Name="IsOverrideAccess" ColumnName="IsOverrideAccess" />
+                <ScalarProperty Name="char_attrib_20" ColumnName="char_attrib_20" />
+                <ScalarProperty Name="char_attrib_19" ColumnName="char_attrib_19" />
+                <ScalarProperty Name="char_attrib_18" ColumnName="char_attrib_18" />
+                <ScalarProperty Name="char_attrib_17" ColumnName="char_attrib_17" />
+                <ScalarProperty Name="char_attrib_16" ColumnName="char_attrib_16" />
+                <ScalarProperty Name="char_attrib_15" ColumnName="char_attrib_15" />
+                <ScalarProperty Name="char_attrib_14" ColumnName="char_attrib_14" />
+                <ScalarProperty Name="char_attrib_13" ColumnName="char_attrib_13" />
+                <ScalarProperty Name="char_attrib_12" ColumnName="char_attrib_12" />
+                <ScalarProperty Name="char_attrib_11" ColumnName="char_attrib_11" />
+                <ScalarProperty Name="char_attrib_10" ColumnName="char_attrib_10" />
+                <ScalarProperty Name="char_attrib_9" ColumnName="char_attrib_9" />
+                <ScalarProperty Name="char_attrib_8" ColumnName="char_attrib_8" />
+                <ScalarProperty Name="char_attrib_7" ColumnName="char_attrib_7" />
+                <ScalarProperty Name="char_attrib_6" ColumnName="char_attrib_6" />
+                <ScalarProperty Name="BoolFlag" ColumnName="BoolFlag" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="local_account" ColumnName="local_account" />
+                <ScalarProperty Name="update_date" ColumnName="update_date" />
+                <ScalarProperty Name="updated_by_user_id" ColumnName="updated_by_user_id" />
+                <ScalarProperty Name="updated_in_trans_batch_id" ColumnName="updated_in_trans_batch_id" />
+                <ScalarProperty Name="creation_date" ColumnName="creation_date" />
+                <ScalarProperty Name="created_by_user_id" ColumnName="created_by_user_id" />
+                <ScalarProperty Name="ack_in_eai_batch_id" ColumnName="ack_in_eai_batch_id" />
+                <ScalarProperty Name="created_in_trans_batch_id" ColumnName="created_in_trans_batch_id" />
+                <ScalarProperty Name="role_prov_by_user_id" ColumnName="role_prov_by_user_id" />
+                <ScalarProperty Name="char_attrib_5" ColumnName="char_attrib_5" />
+                <ScalarProperty Name="char_attrib_4" ColumnName="char_attrib_4" />
+                <ScalarProperty Name="char_attrib_3" ColumnName="char_attrib_3" />
+                <ScalarProperty Name="char_attrib_2" ColumnName="char_attrib_2" />
+                <ScalarProperty Name="char_attrib_1" ColumnName="char_attrib_1" />
+                <ScalarProperty Name="record_source" ColumnName="record_source" />
+                <ScalarProperty Name="default_authoritative_role" ColumnName="default_authoritative_role" />
+                <ScalarProperty Name="crnt_owsh_typ_ds" ColumnName="crnt_owsh_typ_ds" />
+                <ScalarProperty Name="application_role_id" ColumnName="application_role_id" />
+                <ScalarProperty Name="application_id" ColumnName="application_id" />
+                <ScalarProperty Name="location_id" ColumnName="location_id" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="access_org_id" ColumnName="access_org_id" />
+                <ScalarProperty Name="user_app_auth_id" ColumnName="user_app_auth_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="uam2_market1">
+            <EntityTypeMapping TypeName="GlobalAMModel.uam2_market1">
+              <MappingFragment StoreEntitySet="uam2_market1">
+                <ScalarProperty Name="Location1" ColumnName="Location1" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="CompanyType" ColumnName="CompanyType" />
+                <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+                <ScalarProperty Name="CountryCode" ColumnName="CountryCode" />
+                <ScalarProperty Name="MarketID" ColumnName="MarketID" />
+                <ScalarProperty Name="RecordID" ColumnName="RecordID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
